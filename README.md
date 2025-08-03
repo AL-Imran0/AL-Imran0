@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **UCLA Project in USA**
+- 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervison in USA**
 
 - 🌱 I’m currently learning **Deep learnimg,Machine learning.Algorithms**
 
-- 👯 I’m looking to collaborate on **Bioinformatics Projects**
+- 👯 I’m looking to collaborate on **Bioinformatics Projects,Algorithms and ML project**
 
 - 🤝 I’m looking for help with **Cancer research,Computer Security**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **my research**
 
 - 📫 How to reach me **alimran01770@gmail.com**
 

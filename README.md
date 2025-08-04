@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervison in USA**
+- 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
 
-- 🌱 I’m currently learning **General AI,LLMs,Multimodality,Algorithms**
+- 🌱 I’m currently learning **General AI, LLMs, Multimodality, Algorithms**
 
 - 👯 I’m looking to collaborate on **Bioinformatics Projects,Algorithms and ML project**
 
-- 🤝 I’m looking for help with **Cancer research,Computer Security**
+- 🤝 Passionate about **advancing cancer research through AI and deep learning, while also exploring innovative security frameworks to safeguard next-gen technologies.**
 
 - 💬 Ask me about **my research**
 

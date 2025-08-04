@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AL-Imran</h1>
-<h3 align="center">Future Ph.D. Candidate in Computer Science & Engineering | Research Assistant in AI for Healthcare & Cancer Detection | Aspiring Innovator in Computational Biology</h3>
+<h3 align="center">Ph.D. Candidate in Computer Science & Engineering | Research Assistant in AI for Healthcare & Cancer Detection | Aspiring Innovator in Computational Biology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-imran0&label=Profile%20views&color=0e75b6&style=flat" alt="al-imran0" /> </p>
 

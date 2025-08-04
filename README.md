@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervison in USA**
 
-- 🌱 I’m currently learning **Deep learnimg,Machine learning.Algorithms**
+- 🌱 I’m currently learning **General AI,LLMs,Multimodality,Algorithms**
 
 - 👯 I’m looking to collaborate on **Bioinformatics Projects,Algorithms and ML project**
 

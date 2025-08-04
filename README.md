@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alimran01770@gmail.com**
 
-- ⚡ Fun fact **Aspiring AI expert by day, badminton champion and creative art enthusiast by night-always ready to debug code and hit a birdie!**
+- ⚡ Fun fact **Aspiring AI expert day by day, badminton champion and creative art enthusiast by night-always ready to debug code and hit a birdie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

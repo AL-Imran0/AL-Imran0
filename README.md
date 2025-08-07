@@ -63,7 +63,7 @@ Everything for building slick, modern user interfaces.
 ---
 
 ## ⚙️ Backend
-The core logic and server-side power for your applications.
+The core logic and server-side power for applications.
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -91,7 +91,7 @@ The core logic and server-side power for your applications.
 ---
 
 ## 🗃️ Databases
-Your skills in managing, storing, and retrieving data.
+Skills in managing, storing, and retrieving data.
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -112,7 +112,7 @@ Your skills in managing, storing, and retrieving data.
 ---
 
 ## 🤖 AI & Data Science
-The tools for your specialized research in AI and computational biology.
+The tools for specialized research in AI and computational biology.
 <p align="left">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -143,7 +143,7 @@ Building apps for phones and tablets.
 ---
 
 ## ☁️ DevOps & Cloud
-Your toolkit for deploying, scaling, and managing infrastructure.
+Toolkit for deploying, scaling, and managing infrastructure.
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>

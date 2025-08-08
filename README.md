@@ -8,7 +8,7 @@
  
  - I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
 <ul>
-  <li><strong>AI & Machine Learning for Cancer Detection & Healthcare:</strong> Developing cutting-edge machine learning models and predictive algorithms for early cancer detection, with a special focus on Head and Neck Cancer and Breast Cancer (TNBC).</li>
+  <li><strong>AI & Machine Learning for Cancer Detection & Healthcare:</strong> Developing cutting-edge machine learning models and predictive algorithms for early cancer detection, with a special focus on Head and Neck Cancer and Breast Cancer.</li>
 </ul>
 
 -  I’m looking to collaborate on **Bioinformatics Projects, Algorithms, and ML projects**

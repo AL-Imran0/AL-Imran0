@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-imran0&label=Profile%20views&color=0e75b6&style=flat" alt="al-imran0" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- - 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
+
  <h3>Also Currently Working on:</h3>
+ - 🔭 I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
 <ul>
   <li><strong>AI & Machine Learning for Cancer Detection & Healthcare:</strong> Developing cutting-edge machine learning models and predictive algorithms for early cancer detection, with a special focus on Head and Neck Cancer and Triple-Negative Breast Cancer (TNBC).</li>
 </ul>

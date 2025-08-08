@@ -1,16 +1,37 @@
 <h1 align="center">Hi 👋, I'm AL-Imran</h1>
 <h3 align="center">Ph.D. Candidate in Computer Science & Engineering | Research Assistant in AI for Healthcare & Cancer Detection | Aspiring Innovator in Computational Biology</h3>
+
 <p>
-  I am a Ph.D. candidate in Computer Science & Engineering, specializing in AI and machine learning for healthcare applications. My research focuses on cancer detection and predictive modeling, particularly for Lung, Breast, Head and Neck cancers, and Triple-Negative Breast Cancer (TNBC). Currently, I am working as a Research Assistant at the <strong>University of California, Los Angeles (UCLA)</strong>, collaborating with <strong>Prof. Sharon Qi</strong> in the Radiation Oncology Lab to develop early detection models using machine learning. Additionally, I am collaborating with <strong>Prof. Dr. M. Sohel Rahman</strong> at <strong>Bangladesh University of Engineering and Technology (BUET)</strong> on an AI-powered multi-modal framework for TNBC detection. My previous research includes working with <strong>Prof. Dr. Martin Ebert</strong> at the <strong>University of Western Australia (UWA)</strong> on cancer classification using AI algorithms, in collaboration with <strong>Sir Charles Gairdner Hospital</strong>, Australia. I also worked with <strong>Prof. Dr. Nomani Kabir</strong> at <strong>United International University (UIU)</strong> on predictive modeling for lung and breast cancer.
+  I am a Ph.D. candidate in Computer Science & Engineering, with a specialization in Artificial Intelligence (AI) and machine learning applications in healthcare. My primary research interests revolve around cancer detection and predictive modeling, with a focus on **Lung**, **Breast**, **Head and Neck cancers**, and **Triple-Negative Breast Cancer (TNBC)**. 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-imran0&label=Profile%20views&color=0e75b6&style=flat" alt="al-imran0" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p>
+  Currently, I am serving as a Research Assistant at the **University of California, Los Angeles (UCLA)**, collaborating with **Prof. Dr. Sharon Qi** in the **Radiation Oncology Lab**. In this role, I am working to develop machine learning-based models for the early detection of cancers. Additionally, I am collaborating with **Prof. Dr. M. Sohel Rahman** at **Bangladesh University of Engineering and Technology (BUET)**, focusing on the development of an **AI-powered multi-modal framework** for early TNBC detection.
+</p>
 
- <h3>Overview:</h3>
- 
- - I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
--  I’m looking to collaborate on **Bioinformatics Projects, Algorithms, and ML projects**
+<p>
+  Previously, I had the opportunity to collaborate with **Prof. Dr. Martin Ebert** at the **University of Western Australia (UWA)**, where I contributed to research on **AI-driven cancer classification algorithms** in partnership with **Sir Charles Gairdner Hospital** in Australia. Additionally, I worked with **Prof. Dr. Nomani Kabir** at **United International University (UIU)** on **predictive modeling** for **Lung** and **Breast cancer**.
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=al-imran0&label=Profile%20views&color=0e75b6&style=flat" alt="al-imran0" />
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  </a>
+</p>
+
+<h3>Research Overview:</h3>
+<p>
+  My current work involves the application of AI and machine learning to the field of oncology, specifically focusing on the early detection of **Head and Neck cancers** and **TNBC**. My collaboration with **Prof. Dr. Sharon Qi** at UCLA is focused on developing predictive models using machine learning techniques to improve diagnostic accuracy and patient outcomes. 
+</p>
+
+<p>
+  I am actively looking for collaboration opportunities in **Bioinformatics**, **Algorithms**, and **Machine Learning**, with an emphasis on **healthcare innovations** that leverage AI for **cancer research** and **early detection**.
+</p>
+
 
 - Passionate about **advancing cancer research through AI and deep learning, while also exploring innovative security frameworks to safeguard next-gen technologies.**
 

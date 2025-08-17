@@ -10,42 +10,6 @@
     <img src="https://img.shields.io/twitter/follow/alimran0712?logo=twitter&style=for-the-badge" alt="Follow me on X" />
   </a> 
 </p>
-<h3 align="left">Research Interests</h3>
-
-<p align="left">
-  I am passionate about **Computational Biology**, **AI in Healthcare**, and **Machine Learning**, with a focus on transforming healthcare using AI technologies. My primary research areas include:
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Artificial_intelligence_logo.svg" alt="AI logo" width="40" height="40"/>
-  <strong>Cancer Prediction & Early Detection</strong> using advanced AI and machine learning models, particularly for **Lung**, **Breast**, and **Head & Neck cancers**.
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AI_Health_Logo.svg" alt="Healthcare AI" width="40" height="40"/>
-  Developing **AI-powered healthcare solutions** that offer **personalized treatments**, enhance early diagnosis, and improve overall patient outcomes.
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/AI_ML_logo.svg" alt="ML logo" width="40" height="40"/>
-  Innovating with **AI frameworks** designed for **early disease detection**, predictive modeling, and **tailored treatment recommendations**.
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Brain_logo.svg" alt="Brain logo" width="40" height="40"/>
-  Continuously advancing my skills and collaborating with top researchers in **data science** and **machine learning** to push the limits of what AI can achieve in healthcare.
-</p>
-
-<p align="left">
-  I am driven by a deep desire to create real-world solutions that can **transform healthcare** and make a **significant impact** on global health outcomes.
-</p>
-
-<h4 align="left">Let's Collaborate!</h4>
-<p align="left">
-  Feel free to explore my projects and get in touch to discuss potential collaborations or research opportunities.
-</p>
-
-
  <h3>Overview:</h3>
  
  - I’m currently working on **UCLA as a Research Assistant under Prof. Dr Sharon Qi, DABR supervision in the USA**
@@ -59,6 +23,24 @@
 - How to reach me **alimran01770@gmail.com**
 
 - Fun fact **Aspiring AI expert day by day, badminton champion and creative art enthusiast by night-always ready to debug code and hit a birdie!**
+  
+<h3 align="left">Research Interests</h3>
+
+<p align="left">
+  I am deeply committed to <strong>Computational Biology</strong>, <strong>AI in Healthcare</strong>, and <strong>Machine Learning</strong> with a focus on disease diagnosis and predictive modeling. My research spans across several key areas:
+</p>
+
+<ul>
+  <li><strong>Cancer Prediction and Early Detection</strong> (Lung, Breast, Head & Neck cancers) using advanced <strong>AI algorithms</strong> and <strong>machine learning models</strong>.</li>
+  <li>Development of <strong>AI-powered healthcare solutions</strong> for personalized treatments and improved patient outcomes.</li>
+  <li>Exploring innovative <strong>AI frameworks</strong> for early disease detection, classification, and treatment recommendations.</li>
+  <li>Continuous learning and collaboration in the fields of <strong>data science</strong> and <strong>machine learning</strong> to push the boundaries of healthcare technology.</li>
+</ul>
+
+<p align="left">
+  I am passionate about transforming healthcare through cutting-edge AI technologies and making a significant impact on global health outcomes.
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

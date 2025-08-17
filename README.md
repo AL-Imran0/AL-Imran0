@@ -10,6 +10,41 @@
     <img src="https://img.shields.io/twitter/follow/alimran0712?logo=twitter&style=for-the-badge" alt="Follow me on X" />
   </a> 
 </p>
+<h3 align="left">Research Interests</h3>
+
+<p align="left">
+  I am passionate about **Computational Biology**, **AI in Healthcare**, and **Machine Learning**, with a focus on transforming healthcare using AI technologies. My primary research areas include:
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Artificial_intelligence_logo.svg" alt="AI logo" width="40" height="40"/>
+  <strong>Cancer Prediction & Early Detection</strong> using advanced AI and machine learning models, particularly for **Lung**, **Breast**, and **Head & Neck cancers**.
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AI_Health_Logo.svg" alt="Healthcare AI" width="40" height="40"/>
+  Developing **AI-powered healthcare solutions** that offer **personalized treatments**, enhance early diagnosis, and improve overall patient outcomes.
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/AI_ML_logo.svg" alt="ML logo" width="40" height="40"/>
+  Innovating with **AI frameworks** designed for **early disease detection**, predictive modeling, and **tailored treatment recommendations**.
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Brain_logo.svg" alt="Brain logo" width="40" height="40"/>
+  Continuously advancing my skills and collaborating with top researchers in **data science** and **machine learning** to push the limits of what AI can achieve in healthcare.
+</p>
+
+<p align="left">
+  I am driven by a deep desire to create real-world solutions that can **transform healthcare** and make a **significant impact** on global health outcomes.
+</p>
+
+<h4 align="left">Let's Collaborate!</h4>
+<p align="left">
+  Feel free to explore my projects and get in touch to discuss potential collaborations or research opportunities.
+</p>
+
 
  <h3>Overview:</h3>
  

@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<!-- ╔════════════════════════════════════════╗ -->
-<!--   HERO HEADER — SLICE HORIZON STYLE      -->
-<!-- ╚════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0b132b,50:1c2541,75:3a506b,100:5bc0be&text=AL%20IMRAN&fontSize=75&fontColor=00ffe5&fontAlignY=38&animation=fadeIn&desc=AI%20Researcher%20•%20Deep%20Learning%20Engineer%20•%20Computational%20Oncology&descAlignY=58&descSize=18"/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000814,30:001233,55:0a0a2e,80:0d001f,100:000814&height=280&section=header&text=AL%20IMRAN&fontSize=92&fontColor=00ffc8&animation=twinkling&fontAlignY=38&desc=Chief%20AI%20Scientist%20%7C%20Computational%20Oncology%20%7C%20ML%20Architect&descSize=16&descColor=7dd3fc&descAlignY=62&rotate=-5" width="100%"/>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00FFE5&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Researcher;Computational+Oncology+Explorer;Deep+Learning+%26+Medical+Imaging;Graph+Neural+Networks+%7C+Bioinformatics;Building+Next-Generation+AI+Systems"/>
 
 </div>
 

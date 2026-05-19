@@ -1,304 +1,440 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--  AL IMRAN · GITHUB PROFILE README  ·  BIOLUMINESCENT DEEP-SPACE EDITION      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER - Venom style neural network bg -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,25:050520,50:020818,75:050520,100:020010&height=320&section=header&text=AL%20IMRAN&fontSize=86&fontColor=00eaff&animation=fadeIn&fontAlignY=40&desc=Chief%20AI%20Scientist%20%7C%20Computational%20Oncology%20%7C%20ML%20Systems%20Architect&descSize=17&descColor=88dfff&descAlignY=60&stroke=00eaff&strokeWidth=2" width="100%"/>
+<!-- ╔════════════════════════════════════════╗ -->
+<!--   HERO HEADER — SLICE HORIZON STYLE      -->
+<!-- ╚════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000814,30:001233,55:0a0a2e,80:0d001f,100:000814&height=280&section=header&text=AL%20IMRAN&fontSize=92&fontColor=00ffc8&animation=twinkling&fontAlignY=38&desc=Chief%20AI%20Scientist%20%7C%20Computational%20Oncology%20%7C%20ML%20Architect&descSize=16&descColor=7dd3fc&descAlignY=62&rotate=-5" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<!-- PREMIUM TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=800&color=00EAFF&center=true&vCenter=true&multiline=false&width=900&lines=⚡+Principal+AI+Researcher+%40+UCLA+Radiation+Oncology+Lab;🧬+Lead+Scientist+%40+BUET+—+Multimodal+AI+%26+Computational+Oncology;🌐+Collaborating+Across+UCLA+🇺🇸+·+BUET+🇧🇩+·+UWA+🇦🇺;🔬+LLMs+·+VLMs+·+Radiomics+·+XAI+·+Clinical+NLP+·+Multi-Omics;📄+Elsevier+Q1+Under+Review+·+IF+4.2+·+3+Publications)](https://git.io/typing-svg)
+<!-- LIVE TYPING — ORBITRON FONT, BIOLUMINESCENT PALETTE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2800&pause=900&color=00FFC8&center=true&vCenter=true&multiline=false&width=860&lines=◈+Principal+AI+Researcher+%40+UCLA+Radiation+Oncology;◈+Lead+Scientist+%40+BUET+—+Multimodal+AI+%26+Comp.+Oncology;◈+Triangulating+Research+Across+🇺🇸+UCLA+·+🇧🇩+BUET+·+🇦🇺+UWA;◈+LLMs+·+VLMs+·+Radiomics+·+XAI+·+Clinical+NLP+·+Multi-Omics;◈+Elsevier+Q1+Under+Review+·+IF+4.2+·+3+Peer-Reviewed+Papers)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<!-- LIVE BADGES ROW -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=al-imran0&color=00ffc8&style=flat-square&label=SIGNAL+TRACES)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/al-imran0?style=flat-square&color=bd00ff&labelColor=0a0a2e&label=NETWORK+NODES)](https://github.com/al-imran0?tab=followers)&nbsp;&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3122--6120-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3122-6120)&nbsp;&nbsp;
+[![Scholar](https://img.shields.io/badge/Scholar-Research_Portal-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://sites.google.com/view/alimran-researcher)&nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00ffc8?style=flat-square&labelColor=001233)](mailto:alimran01770@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+## `▸ SYSTEM_MANIFEST.yml`
+
+```yaml
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ENTITY        : AL Imran                                                 ║
+║   DESIGNATION   : Chief AI Scientist · SW Architect · ML Engineer         ║
+║   COORDINATES   : Dhaka, Bangladesh  ——  Research across 3 continents     ║
+║                                                                            ║
+║   RESEARCH_NODES:                                                          ║
+║     NODE_01  ·  UCLA    ·  Research Assistant  ·  Prof. Sharon Qi 🇺🇸      ║
+║     NODE_02  ·  BUET    ·  Lead Researcher      ·  Prof. M. Sohel Rahman 🇧🇩║
+║     NODE_03  ·  UWA     ·  AI Research Asst     ·  Prof. Martin Ebert 🇦🇺  ║
+║                                                                            ║
+║   ACTIVE_DOMAINS:                                                          ║
+║     [ Multimodal AI ]  [ Computational Oncology ]  [ XAI ]                ║
+║     [ Clinical NLP  ]  [ Radiomics ]  [ Multi-Omics ]  [ LLMs / VLMs ]   ║
+║                                                                            ║
+║   OUTPUT_STREAM:                                                           ║
+║     ▸ 3 peer-reviewed publications                                         ║
+║     ▸ 1 Elsevier Q1 under review  ·  IF: 4.2                               ║
+║     ▸ Wiley book chapter  ·  accepted 2025                                 ║
+║                                                                            ║
+║   MISSION  :  Principled AI grounded in optimization theory —              ║
+║               stress-tested on biomedical data,                            ║
+║               deployed at production scale.                                ║
+║                                                                            ║
+║   AVAILABILITY:  ██████████████████░░  Open to Collaborations             ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `▸ RESEARCH_CONSTELLATION`
+
+<div align="center">
+
+| 🔭 Node | 🏛️ Institution | 🧬 Mission | 📡 Status |
+|:---:|:---:|:---|:---:|
+| `UCLA·RO` | **UCLA Radiation Oncology** | CNN pipelines on NIH TCIA DICOM · Lung/Breast/H&N survival prediction · Clinical CSV + Imaging fusion | 🟢 `LIVE` |
+| `BUET·CSE` | **BUET — CSE Dept** | Explainable multimodal AI for TNBC · Multimodal DL lung survival · CMA-Net histopathology | 🟢 `LIVE` |
+| `UWA·AI` | **University of W. Australia** | Co-authored Wiley Cancer Detection book chapter · Cross-continental AI research | 🟡 `PUBLISHING` |
+| `UNESCO·RG` | **UNESCO Research Grant** | Deepfake detection via transfer learning + robust CNN · +23% reliability gain | ✅ `COMPLETE` |
+
+</div>
+
+<br/>
+
+```
+  ╭──────────────────────────────────────────────────────────────────────╮
+  │  🎯  FLAGSHIP  ·  BUET × UCLA MULTIMODAL FUSION                     │
+  │  ────────────────────────────────────────────────────────────────    │
+  │                                                                      │
+  │   Imaging ──┐                                                        │
+  │   (CT/MRI)  │                                                        │
+  │             ├──▶  Multimodal Encoder ──▶  XAI Layer ──▶  Prognosis  │
+  │   Genomics  │         (CNN + VLM)         (SHAP/CAM)    (Survival)  │
+  │   (RNA-seq) ┘                                                        │
+  │                                                                      │
+  │   Datasets  ·  NIH TCIA  ·  TCGA  ·  Clinical EHRs                  │
+  │   Cancers   ·  TNBC  ·  Lung  ·  Breast  ·  Head & Neck            │
+  ╰──────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `▸ SIGNAL_CHANNELS  ( Publications )`
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60" align="center">📘</td>
+<td>
+<b>[P1] — ELSEVIER Q1 · UNDER REVIEW</b><br/>
+<i>"Leveraging Next-Generation Networks for Evolving Security Challenges"</i><br/>
+<sub>Impact Factor: 4.2 · Main Author · Submission 2025</sub>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/IF_4.2-Under_Review-ff2d78?style=flat-square&labelColor=0d001f"/></td>
+</tr>
+<tr><td colspan="3"><hr style="border:0; border-top:1px solid #1a1a3e;"/></td></tr>
+<tr>
+<td width="60" align="center">📗</td>
+<td>
+<b>[P2] — ICDECT 2025 · PUBLISHED</b><br/>
+<i>"Smart E-Waste Recycling Using AI and Blockchain"</i><br/>
+<sub>DOI: 10.20944/preprints202512.0241.v1</sub>
+</td>
+<td align="center"><a href="https://doi.org/10.20944/preprints202512.0241.v1"><img src="https://img.shields.io/badge/DOI-Published-00ffc8?style=flat-square&labelColor=001233"/></a></td>
+</tr>
+<tr><td colspan="3"><hr style="border:0; border-top:1px solid #1a1a3e;"/></td></tr>
+<tr>
+<td width="60" align="center">📙</td>
+<td>
+<b>[P3] — WILEY · BOOK CHAPTER · ACCEPTED 2025</b><br/>
+<i>Cancer Detection — AI-Driven Approaches</i><br/>
+<sub>Co-authored with Prof. Dr. Martin Ebert · University of Western Australia</sub>
+</td>
+<td align="center"><img src="https://img.shields.io/badge/Wiley-Accepted_2025-bd00ff?style=flat-square&labelColor=0d001f"/></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- VISITOR + PROFILE VIEWS LIVE -->
+## `▸ DEEP_DOMAIN_CORES`
+
+<details>
+<summary><b>🧠 &nbsp; LLMs &amp; Clinical NLP &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
+<br/>
+
+Fine-tuning and benchmarking biomedical LLMs — **BioMedLM**, **ClinicalBERT**, **LLaMA** — on radiology reports, oncology clinical notes, and peer-reviewed medical literature. Structured extraction pipelines from EHR text feeding downstream survival modeling.
+
+> `BioMedLM` → domain-adaptive pretraining on pathology corpora  
+> `ClinicalBERT` → NER + relation extraction from oncology notes  
+> `LLaMA` → few-shot clinical reasoning under resource constraints  
+
+![BioMedLM](https://img.shields.io/badge/BioMedLM-finetune-00ffc8?style=flat-square&labelColor=000814)
+![ClinicalBERT](https://img.shields.io/badge/ClinicalBERT-EHR_NLP-7dd3fc?style=flat-square&labelColor=000814)
+![LLaMA](https://img.shields.io/badge/LLaMA-Clinical_Adapt-bd00ff?style=flat-square&labelColor=000814)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Pipeline-fbbf24?style=flat-square&labelColor=000814)
+
+</details>
+
+<details>
+<summary><b>👁️ &nbsp; Vision-Language Models &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
+<br/>
+
+Multimodal alignment across WSI pathology slides, CT/MRI scans, and clinical text using **CLIP**, **Med-PaLM**, **LLaVA-Med**. Zero-shot and few-shot diagnostic reasoning via cross-modal attention on real-world oncology cohorts.
+
+> Cross-modal contrastive learning · Attention-guided fusion · Pathology-radiology co-learning
+
+![CLIP](https://img.shields.io/badge/CLIP-Cross_Modal-00ffc8?style=flat-square&labelColor=000814)
+![LLaVA-Med](https://img.shields.io/badge/LLaVA--Med-Few_Shot-bd00ff?style=flat-square&labelColor=000814)
+![Med-PaLM](https://img.shields.io/badge/Med--PaLM-Zero_Shot-ff2d78?style=flat-square&labelColor=000814)
+![ViT](https://img.shields.io/badge/ViT-Spatial_Attn-7dd3fc?style=flat-square&labelColor=000814)
+
+</details>
+
+<details>
+<summary><b>🏥 &nbsp; Computational Oncology &amp; Radiomics &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
+<br/>
+
+End-to-end prognosis engines for **Lung · Breast (TNBC, Histopathology) · Head & Neck** cancers. Radiomics feature extraction pipelines on NIH TCIA DICOM datasets. CNN + clinical tabular fusion with Cox Proportional Hazards survival heads.
+
+> PyRadiomics extraction → deep feature harmonization → ensemble survival output
+
+![NIH-TCIA](https://img.shields.io/badge/NIH_TCIA-DICOM-00ffc8?style=flat-square&labelColor=000814)
+![Radiomics](https://img.shields.io/badge/Radiomics-PyRadiomics-7dd3fc?style=flat-square&labelColor=000814)
+![Cox PH](https://img.shields.io/badge/Survival-Cox_PH-bd00ff?style=flat-square&labelColor=000814)
+![DICOM](https://img.shields.io/badge/DICOM-SimpleITK-ff2d78?style=flat-square&labelColor=000814)
+
+</details>
+
+<details>
+<summary><b>🔍 &nbsp; Explainable &amp; Trustworthy AI (XAI) &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
+<br/>
+
+XAI methods integrated as **architectural constraints**, not post-hoc wrappers. Sparsity-inducing regularizers that drive semantically meaningful latent structures. Attention rollout + gradient flow visualization for clinical interpretability.
+
+> SHAP TreeExplainer · Integrated Gradients · Grad-CAM++ · Attention Rollout
+
+![SHAP](https://img.shields.io/badge/SHAP-Attribution-00ffc8?style=flat-square&labelColor=000814)
+![Grad-CAM++](https://img.shields.io/badge/Grad--CAM++-Saliency-ff2d78?style=flat-square&labelColor=000814)
+![LIME](https://img.shields.io/badge/LIME-Local_XAI-fbbf24?style=flat-square&labelColor=000814)
+![IG](https://img.shields.io/badge/Integrated_Gradients-bd00ff?style=flat-square&labelColor=000814)
+
+</details>
+
+<details>
+<summary><b>🧬 &nbsp; Multi-Omics &amp; Computational Biology &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
+<br/>
+
+**RNA-seq · Proteomics · Methylomics · Clinical variable integration**. Graph neural networks on protein interaction networks. Dimensionality reduction with biological prior constraints. From raw sequencing reads to actionable clinical prognosis.
+
+> DESeq2 normalization → topology-aware GNNs → multi-omics fusion → survival output
+
+![RNA-seq](https://img.shields.io/badge/RNA--seq-DESeq2-00ffc8?style=flat-square&labelColor=000814)
+![GNN](https://img.shields.io/badge/GNN-PPI_Networks-bd00ff?style=flat-square&labelColor=000814)
+![Proteomics](https://img.shields.io/badge/Proteomics-Multi_Omics-7dd3fc?style=flat-square&labelColor=000814)
+![TCGA](https://img.shields.io/badge/TCGA-Genomic_DB-ff2d78?style=flat-square&labelColor=000814)
+
+</details>
+
+---
+
+## `▸ ORBITAL_TECH_MAP`
+
+<br/>
+
+**Core Intelligence**
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+[![sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+
+**Systems & Languages**
+
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://mathworks.com)
+
+**Cloud & Orchestration**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+
+**Data & Backends**
+
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+
+<br/>
+
+<!-- EXTENDED BADGE ROW FOR SPECIALIZED ML TOOLS -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=al-imran0&color=00eaff&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/al-imran0?color=00eaff&style=for-the-badge&logo=github&label=FOLLOWERS)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3122--6120-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3122-6120)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Research_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://sites.google.com/view/alimran-researcher)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=google&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
 ---
 
-<!-- LIVE SNAKE CONTRIBUTION ANIMATION -->
+## `▸ RECOGNITION_LOG`
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   TIMESTAMP     EVENT                            TIER              │
+│   ──────────────────────────────────────────────────────────────   │
+│   2025-Q1    ▸  Best Idea & Poster Award         🥇  GOLD          │
+│                  UIU CSE Fest 2025                                  │
+│                                                                     │
+│   2025-Q1    ▸  3rd Place · NIRAMOY              🥉  BRONZE        │
+│                  UIU CSE Project Show                               │
+│                                                                     │
+│   2024       ▸  UNESCO Research Grant            🌍  INTL          │
+│                  Deepfake Detection (Jan 24–Jun 25)                 │
+│                                                                     │
+│   2021       ▸  Talent Pool Scholarship          🎓  GOV'T         │
+│                  HSC · Govt. of Bangladesh                          │
+│                                                                     │
+│   2019       ▸  General Grade Scholarship        🎓  GOV'T         │
+│                  SSC · Govt. of Bangladesh                          │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `▸ NEURAL_METRICS  ( GitHub Intelligence )`
+
+<br/>
+
+<!-- ROW 1 — STATS + LANGUAGES -->
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=al-imran0&show_icons=true&theme=github_dark&hide_border=true&bg_color=000814&title_color=00ffc8&icon_color=bd00ff&text_color=7dd3fc&ring_color=00ffc8&include_all_commits=true&count_private=true&custom_title=◈+Commit+Intelligence&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged" />
+&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-imran0&layout=donut&theme=github_dark&hide_border=true&bg_color=000814&title_color=00ffc8&text_color=7dd3fc&langs_count=8&custom_title=◈+Language+Matrix" />
+
+</div>
+
+<br/>
+
+<!-- ROW 2 — STREAK -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imran0&theme=radical&hide_border=true&background=000814&ring=00ffc8&fire=ff2d78&currStreakLabel=00ffc8&sideLabels=7dd3fc&dates=4a5568&stroke=000814&sideNums=bd00ff&currStreakNum=00ffc8" width="55%"/>
+
+</div>
+
+<br/>
+
+<!-- ROW 3 — PROFILE SUMMARY CARDS -->
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al-imran0&theme=github_dark)](https://github.com/al-imran0)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al-imran0&theme=github_dark)](https://github.com/al-imran0)&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=al-imran0&theme=github_dark)](https://github.com/al-imran0)
+
+</div>
+
+<br/>
+
+<!-- ROW 4 — ACTIVITY GRAPH -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=al-imran0&bg_color=000814&color=00ffc8&line=bd00ff&point=ff2d78&area=true&area_color=00ffc815&hide_border=true&custom_title=◈+Daily+Research+Activity+Signal&title_color=00ffc8&radius=6)](https://github.com/al-imran0)
+
+</div>
+
+<br/>
+
+<!-- ROW 5 — TROPHIES -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=al-imran0&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+
+</div>
+
+---
+
+## `▸ CONTRIBUTION_STREAM  ( Deep-Space Snake )`
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## `whoami`
+## `▸ TRANSMISSION_CHANNELS  ( Contact )`
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-  name        : AL Imran
-  alias       : alimran · alimran-researcher · asmanimran
-  role        : Chief AI Scientist · SW Architect · ML Engineer
-  focus       : Multimodal AI · Computational Oncology · XAI
-  affiliations:
-    🇺🇸  UCLA  — Research Assistant  @  Prof. Sharon Qi
-    🇧🇩  BUET  — Lead Researcher     @  Prof. M. Sohel Rahman
-    🇦🇺  UWA   — AI Research Asst   @  Prof. Martin Ebert
-  location    : Dhaka, Bangladesh 🌏 (Research across 3 continents)
-  status      : ✅  Open to Collaborations
-  papers      : 3 published · 1 Elsevier Q1 under review (IF 4.2)
-  mission     : Building principled AI grounded in optimization
-                theory — stress-tested on biomedical data,
-                deployed at production scale.
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🏛️ Research Architecture
+<br/>
 
 <div align="center">
 
-[![UCLA](https://img.shields.io/badge/🏥_UCLA-Radiation_Oncology-00eaff?style=for-the-badge)](https://www.uclahealth.org/departments/radonc)
-[![BUET](https://img.shields.io/badge/🎓_BUET-Lead_Researcher-00c896?style=for-the-badge)](https://cse.buet.ac.bd/)
-[![UWA](https://img.shields.io/badge/🦘_UWA-AI_Research_Asst-7b68ee?style=for-the-badge)](https://www.uwa.edu.au/)
-[![Papers](https://img.shields.io/badge/📄_Papers-3_Published-ff6b6b?style=for-the-badge)](#-publications)
-[![Q1](https://img.shields.io/badge/Elsevier_Q1-IF_4.2_Under_Review-ffd700?style=for-the-badge&logo=elsevier)](https://www.elsevier.com/)
-[![Award](https://img.shields.io/badge/🏆_Best_Idea_Award-UIU_CSE_Fest_2025-ff9a00?style=for-the-badge)](#-recognition)
+| Channel | Address | Protocol |
+|:---:|:---:|:---:|
+| 🌐 Research Portal | [alimran-researcher](https://sites.google.com/view/alimran-researcher) | `HTTPS` |
+| 🔬 ORCID | [0009-0001-3122-6120](https://orcid.org/0009-0001-3122-6120) | `DOI-LINKED` |
+| 💼 LinkedIn | [al-imran-b3b98a239](https://linkedin.com/in/al-imran-b3b98a239) | `OAUTH2` |
+| 📧 Email | [alimran01770@gmail.com](mailto:alimran01770@gmail.com) | `SMTP` |
+| 🐙 GitHub | [@AL-Imran0](https://github.com/AL-Imran0) | `GIT/SSH` |
+| 📊 Kaggle | [@asmanimran](https://kaggle.com/asmanimran) | `HTTPS` |
+| 🎓 Google Scholar | [Research Corpus](https://scholar.google.com/citations?user=al-imran0) | `INDEXED` |
+| 🔗 ResearchGate | [Profile](https://www.researchgate.net/) | `HTTPS` |
+| 🐦 X / Twitter | [@alimran0712](https://x.com/alimran0712) | `API_v2` |
 
 </div>
 
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  🎯  UCLA — Radiation Oncology Lab (Prof. Sharon Qi)                     │
-│  ─────────────────────────────────────────────────────────────────────   │
-│   ▸ CNN Pipelines on NIH TCIA DICOM Datasets                             │
-│   ▸ Clinical CSV + Imaging Fusion for Survival Prediction                │
-│   ▸ Lung · Breast · Head & Neck Cancer Prognostics                      │
-│   ▸ STATUS: 🟢 ACTIVE                                                    │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🔬  BUET — CSE Dept. Lead Researcher (Prof. M. Sohel Rahman)           │
-│  ─────────────────────────────────────────────────────────────────────   │
-│   ▸ [1] Explainable Multimodal AI — TNBC Classification & Prognosis     │
-│          → Elsevier Q1 | IF: 4.2 | Under Review                         │
-│   ▸ [2] Multimodal DL — Lung Cancer Survival Prediction                 │
-│   ▸ [3] CMA-Net — Breast Cancer Histopathology Analysis                 │
-│   ▸ [4] Additional multimodal research tracks (ongoing)                 │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🌍  UNESCO Research Grant — Deepfake Detection (Jan 2024–Jun 2025)     │
-│  ─────────────────────────────────────────────────────────────────────   │
-│   ▸ Transfer Learning + Robust CNN Architectures                        │
-│   ▸ +23% detection reliability improvement                              │
-│   ▸ Stack: PyTorch · OpenCV · Custom CNN                                │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧬 Research Domains
-
-<details>
-<summary><b>🤖 LLMs & Clinical NLP</b></summary>
-<br>
-
-> Fine-tuning and evaluating biomedical LLMs — **BioMedLM**, **ClinicalBERT**, **LLaMA** — on radiology reports, oncology notes, and medical literature. Structured extraction from EHR text for downstream survival prediction.
-
-![BioMedLM](https://img.shields.io/badge/BioMedLM-finetune-00eaff?style=flat-square)
-![ClinicalBERT](https://img.shields.io/badge/ClinicalBERT-EHR_NLP-00c896?style=flat-square)
-![LLaMA](https://img.shields.io/badge/LLaMA-Clinical_Adaptation-7b68ee?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-Pipeline-FFD21E?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>👁️ Vision-Language Models for Medical Imaging</b></summary>
-<br>
-
-> Multimodal alignment across pathology slides, CT scans, and clinical text using **CLIP**, **Med-PaLM**, **LLaVA-Med**. Zero/few-shot diagnosis via cross-modal reasoning on real oncology data.
-
-![CLIP](https://img.shields.io/badge/CLIP-Multimodal_Alignment-00eaff?style=flat-square)
-![LLaVA-Med](https://img.shields.io/badge/LLaVA--Med-Few_Shot-00c896?style=flat-square)
-![Med-PaLM](https://img.shields.io/badge/Med--PaLM-Zero_Shot-ff6b6b?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>🏥 Computational Oncology & Radiomics</b></summary>
-<br>
-
-> Early detection & prognosis for **Lung · Breast (TNBC, Histopathology) · Head & Neck** cancers. Radiomics pipelines on NIH TCIA DICOM datasets. CNN + clinical CSV fusion for scalable prognostic modeling.
-
-![NIH TCIA](https://img.shields.io/badge/NIH_TCIA-DICOM_Pipelines-00eaff?style=flat-square)
-![Radiomics](https://img.shields.io/badge/Radiomics-Feature_Extraction-7b68ee?style=flat-square)
-![CNN Fusion](https://img.shields.io/badge/CNN+CSV-Multimodal_Fusion-00c896?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>📊 Explainable & Trustworthy AI (XAI)</b></summary>
-<br>
-
-> **SHAP · LIME · Grad-CAM · Attention Visualization** — integrated as learning constraints, not post-hoc patches. Sparsity-inducing regularizers for semantically meaningful latent structures.
-
-![SHAP](https://img.shields.io/badge/SHAP-Feature_Attribution-00eaff?style=flat-square)
-![GradCAM](https://img.shields.io/badge/Grad--CAM-Saliency_Maps-ff6b6b?style=flat-square)
-![LIME](https://img.shields.io/badge/LIME-Local_Explainability-ffd700?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>🧬 Computational Biology & Multi-Omics</b></summary>
-<br>
-
-> **RNA-seq · Proteomics · Clinical variable integration**. Genomic survival modeling. Principled ML on high-dimensional sparse biological data — from raw sequencing to clinically actionable predictions.
-
-![RNA-seq](https://img.shields.io/badge/RNA--seq-Genomic_Modeling-00c896?style=flat-square)
-![Proteomics](https://img.shields.io/badge/Proteomics-Multi_Omics-7b68ee?style=flat-square)
-![Survival](https://img.shields.io/badge/Survival_Models-Clinical_AI-00eaff?style=flat-square)
-
-</details>
-
----
-
-## 📄 Publications
-
-**[P1]** 📘 *"Leveraging Next-Generation Networks for Evolving Security Challenges"*
-> `Elsevier Q1` · **IF: 4.2** · **🔴 Under Review** · Main Author
-
-**[P2]** 📗 *"Smart E-Waste Recycling Using AI and Blockchain"*
-> `ICDECT 2025` · **✅ Published** · [![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202512.0241.v1-blue?style=flat-square)](https://doi.org/10.20944/preprints202512.0241.v1)
-
-**[P3]** 📙 *Book Chapter — Cancer Detection*
-> `Wiley` · **✅ Accepted 2025** · Co-authored with **Prof. Dr. Martin Ebert** (UWA, Australia)
-
----
-
-## 🏆 Recognition
-
-```
-🥇  Best Idea & Poster Award  —  UIU CSE Fest 2025
-🥉  3rd Place                 —  NIRAMOY, UIU CSE Project Show 2025
-🌍  UNESCO Research Grant     —  Deepfake Detection (2024–2025)
-🎓  Talent Pool Scholarship   —  HSC, Government of Bangladesh 2021
-🎓  General Grade Scholarship —  SSC, Government of Bangladesh 2019
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Core AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=google&logoColor=black)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Cloud & MLOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-
-**Engineering & Web**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-## 📊 GitHub Intelligence
+<br/>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=al-imran0&show_icons=true&theme=github_dark&hide_border=true&bg_color=020010&title_color=00eaff&icon_color=00c896&text_color=88dfff&rank_icon=github&include_all_commits=true&count_private=true&custom_title=⚡+Contribution+Intelligence&ring_color=00eaff"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-imran0&layout=compact&theme=github_dark&hide_border=true&bg_color=020010&title_color=00eaff&text_color=88dfff&langs_count=10&custom_title=🧪+Research+Languages"/>
+> **◈ Transmission Frequency:** Available for collaborations in Computational Biology · Clinical NLP · VLMs for Medical Imaging · XAI for Healthcare · Multi-Omics AI Systems
 
 </div>
 
+<br/>
+
+---
+
+<!-- ISOMETRIC STATS (3D CONTRIBUTION) -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=al-imran0&theme=github-dark-blue&hide_border=true&background=020010&ring=00eaff&fire=ff6b6b&currStreakLabel=00eaff&sideLabels=88dfff&dates=7d8590&stroke=020010" width="60%"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=al-imran0&bg_color=020010&color=00eaff&line=00c896&point=88dfff&area=true&area_color=00eaff15&hide_border=true&custom_title=⚡+AL+Imran+—+Daily+Research+Commit+Heatmap&title_color=00eaff)](https://github.com/al-imran0)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=al-imran0&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+[![AL Imran's GitHub | Stats](https://stats.quine.sh/al-imran0/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=al-imran0)
 
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SEO METADATA                                                    -->
+<!--                                                                 -->
+<!-- keywords: AL Imran AI scientist, alimran researcher,            -->
+<!-- UCLA AI researcher, BUET AI researcher, computational oncology, -->
+<!-- multimodal AI Bangladesh, XAI healthcare, clinical NLP,         -->
+<!-- LLM biomedical, VLM clinical, cancer AI prediction,             -->
+<!-- deep learning oncology, radiomics AI, multi-omics machine       -->
+<!-- learning, Chief AI Scientist Bangladesh, ML engineer BUET       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ANIMATED FOOTER — SHARK WAVE -->
 <div align="center">
 
-[![Research Site](https://img.shields.io/badge/🌐_Research_Site-alimran--researcher-0a2540?style=for-the-badge&logoColor=white)](https://sites.google.com/view/alimran-researcher)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3122--6120-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3122-6120)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AL--Imran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/al-imran-b3b98a239)
-[![Email](https://img.shields.io/badge/Email-alimran01770%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimran01770@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-asmanimran-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/asmanimran)
-[![X / Twitter](https://img.shields.io/badge/X-@alimran0712-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alimran0712)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=al-imran0)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Connect-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000814,40:001233,70:0a0a2e,100:0d001f&height=120&section=footer&text=Building+AI+that+understands+life+itself.&fontSize=14&fontColor=00ffc8&animation=twinkling&fontAlignY=70" width="100%"/>
 
-</div>
-
-<div align="center">
-
-> 💡 **Open to collaborations in:** Computational Biology · Clinical NLP · VLMs for Medical Imaging · XAI for Healthcare · Multi-Omics AI Systems
-
-</div>
-
----
-
-<!-- SEO METADATA — helps Google index this profile -->
-<!--
-  keywords: AL Imran AI scientist, alimran researcher, AI scientist Bangladesh,
-  UCLA AI researcher, BUET AI researcher, computational oncology AI,
-  multimodal AI researcher, XAI healthcare, clinical NLP Bangladesh,
-  best AI scientist Bangladesh, imran AI researcher, al imran ML engineer,
-  UCLA radiation oncology AI, BUET CSE researcher, medical imaging AI,
-  LLM biomedical, VLM clinical, cancer AI prediction Bangladesh
--->
-
-<!-- ANIMATED FOOTER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,40:050520,70:020818,100:020010&height=140&section=footer&text=Building+AI+that+understands+life+itself.&fontSize=15&fontColor=00eaff&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>

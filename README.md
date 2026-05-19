@@ -194,45 +194,6 @@ XAI methods integrated as **architectural constraints**, not post-hoc wrappers. 
 
 <br/>
 
-<!-- ROW 5 — TROPHIES -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=al-imran0&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
-
-</div>
-
----
-
-## `▸ CONTRIBUTION_STREAM  ( Deep-Space Snake )`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/AL-Imran0/AL-Imran0/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<div align="center">
-
-> **◈ Transmission Frequency:** Available for collaborations in Computational Biology · Clinical NLP · VLMs for Medical Imaging · XAI for Healthcare · Multi-Omics AI Systems
-
-</div>
-
-<br/>
-
----
-
-<!-- ISOMETRIC STATS (3D CONTRIBUTION) -->
-<div align="center">
-
-[![AL Imran's GitHub | Stats](https://stats.quine.sh/al-imran0/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=al-imran0)
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- SEO METADATA                                                    -->

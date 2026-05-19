@@ -41,29 +41,14 @@
 ```yaml
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║   ENTITY        : AL Imran                                                 ║
-║   DESIGNATION   : Chief AI Scientist · SW Architect · ML Engineer         ║
-║   COORDINATES   : Dhaka, Bangladesh  ——  Research across 3 continents     ║
+║   ENTITY       : AL Imran                                                  ║
+║   DESIGNATION  : Chief AI Scientist · SW Architect · ML Engineer           ║
+║                                                                            ║
 ║                                                                            ║
 ║   RESEARCH_NODES:                                                          ║
-║     NODE_01  ·  UCLA    ·  Research Assistant  ·  Prof. Sharon Qi 🇺🇸      ║
-║     NODE_02  ·  BUET    ·  Lead Researcher      ·  Prof. M. Sohel Rahman 🇧🇩║
-║     NODE_03  ·  UWA     ·  AI Research Asst     ·  Prof. Martin Ebert 🇦🇺  ║
-║                                                                            ║
-║   ACTIVE_DOMAINS:                                                          ║
-║     [ Multimodal AI ]  [ Computational Oncology ]  [ XAI ]                ║
-║     [ Clinical NLP  ]  [ Radiomics ]  [ Multi-Omics ]  [ LLMs / VLMs ]   ║
-║                                                                            ║
-║   OUTPUT_STREAM:                                                           ║
-║     ▸ 3 peer-reviewed publications                                         ║
-║     ▸ 1 Elsevier Q1 under review  ·  IF: 4.2                               ║
-║     ▸ Wiley book chapter  ·  accepted 2025                                 ║
-║                                                                            ║
-║   MISSION  :  Principled AI grounded in optimization theory —              ║
-║               stress-tested on biomedical data,                            ║
-║               deployed at production scale.                                ║
-║                                                                            ║
-║   AVAILABILITY:  ██████████████████░░  Open to Collaborations             ║
+║      UCLA    ·  Research Assistant  ·  Prof. Sharon Qi 🇺🇸                  ║
+║      BUET    ·  Lead Researcher      ·  Prof. M. Sohel Rahman🇧🇩            ║
+║      UWA     ·  AI Research Asst     ·  Prof. Martin Ebert 🇦🇺              ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -76,75 +61,20 @@
 
 | 🔭 Node | 🏛️ Institution | 🧬 Mission | 📡 Status |
 |:---:|:---:|:---|:---:|
-| `UCLA·RO` | **UCLA Radiation Oncology** | CNN pipelines on NIH TCIA DICOM · Lung/Breast/H&N survival prediction · Clinical CSV + Imaging fusion | 🟢 `LIVE` |
-| `BUET·CSE` | **BUET — CSE Dept** | Explainable multimodal AI for TNBC · Multimodal DL lung survival · CMA-Net histopathology | 🟢 `LIVE` |
-| `UWA·AI` | **University of W. Australia** | Co-authored Wiley Cancer Detection book chapter · Cross-continental AI research | 🟡 `PUBLISHING` |
-| `UNESCO·RG` | **UNESCO Research Grant** | Deepfake detection via transfer learning + robust CNN · +23% reliability gain | ✅ `COMPLETE` |
+| **UCLA Radiation Oncology** | CNN pipelines on NIH TCIA DICOM · Lung/Breast/H&N survival prediction · Clinical CSV + Imaging fusion | 🟢 `LIVE` |
+| **BUET — CSE Dept** | Explainable multimodal AI for TNBC · Multimodal DL lung survival · CMA-Net histopathology | 🟢 `LIVE` |
+| **University of Western Australia** | Co-authored Wiley Cancer Detection book chapter · Cross-continental AI research | 🟡 `PUBLISHING` |
+| **UNESCO Research Grant** | Deepfake detection via transfer learning + robust CNN · +23% reliability gain | ✅ `COMPLETE` |
 
 </div>
 
 <br/>
-
-```
-  ╭──────────────────────────────────────────────────────────────────────╮
-  │  🎯  FLAGSHIP  ·  BUET × UCLA MULTIMODAL FUSION                     │
-  │  ────────────────────────────────────────────────────────────────    │
-  │                                                                      │
-  │   Imaging ──┐                                                        │
-  │   (CT/MRI)  │                                                        │
-  │             ├──▶  Multimodal Encoder ──▶  XAI Layer ──▶  Prognosis  │
-  │   Genomics  │         (CNN + VLM)         (SHAP/CAM)    (Survival)  │
-  │   (RNA-seq) ┘                                                        │
-  │                                                                      │
-  │   Datasets  ·  NIH TCIA  ·  TCGA  ·  Clinical EHRs                  │
-  │   Cancers   ·  TNBC  ·  Lung  ·  Breast  ·  Head & Neck            │
-  ╰──────────────────────────────────────────────────────────────────────╯
-```
 
 ---
 
 ## `▸ SIGNAL_CHANNELS  ( Publications )`
 
 <br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="60" align="center">📘</td>
-<td>
-<b>[P1] — ELSEVIER Q1 · UNDER REVIEW</b><br/>
-<i>"Leveraging Next-Generation Networks for Evolving Security Challenges"</i><br/>
-<sub>Impact Factor: 4.2 · Main Author · Submission 2025</sub>
-</td>
-<td align="center"><img src="https://img.shields.io/badge/IF_4.2-Under_Review-ff2d78?style=flat-square&labelColor=0d001f"/></td>
-</tr>
-<tr><td colspan="3"><hr style="border:0; border-top:1px solid #1a1a3e;"/></td></tr>
-<tr>
-<td width="60" align="center">📗</td>
-<td>
-<b>[P2] — ICDECT 2025 · PUBLISHED</b><br/>
-<i>"Smart E-Waste Recycling Using AI and Blockchain"</i><br/>
-<sub>DOI: 10.20944/preprints202512.0241.v1</sub>
-</td>
-<td align="center"><a href="https://doi.org/10.20944/preprints202512.0241.v1"><img src="https://img.shields.io/badge/DOI-Published-00ffc8?style=flat-square&labelColor=001233"/></a></td>
-</tr>
-<tr><td colspan="3"><hr style="border:0; border-top:1px solid #1a1a3e;"/></td></tr>
-<tr>
-<td width="60" align="center">📙</td>
-<td>
-<b>[P3] — WILEY · BOOK CHAPTER · ACCEPTED 2025</b><br/>
-<i>Cancer Detection — AI-Driven Approaches</i><br/>
-<sub>Co-authored with Prof. Dr. Martin Ebert · University of Western Australia</sub>
-</td>
-<td align="center"><img src="https://img.shields.io/badge/Wiley-Accepted_2025-bd00ff?style=flat-square&labelColor=0d001f"/></td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## `▸ DEEP_DOMAIN_CORES`
 
 <details>
@@ -276,35 +206,6 @@ XAI methods integrated as **architectural constraints**, not post-hoc wrappers. 
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
-
----
-
-## `▸ RECOGNITION_LOG`
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   TIMESTAMP     EVENT                            TIER              │
-│   ──────────────────────────────────────────────────────────────   │
-│   2025-Q1    ▸  Best Idea & Poster Award         🥇  GOLD          │
-│                  UIU CSE Fest 2025                                  │
-│                                                                     │
-│   2025-Q1    ▸  3rd Place · NIRAMOY              🥉  BRONZE        │
-│                  UIU CSE Project Show                               │
-│                                                                     │
-│   2024       ▸  UNESCO Research Grant            🌍  INTL          │
-│                  Deepfake Detection (Jan 24–Jun 25)                 │
-│                                                                     │
-│   2021       ▸  Talent Pool Scholarship          🎓  GOV'T         │
-│                  HSC · Govt. of Bangladesh                          │
-│                                                                     │
-│   2019       ▸  General Grade Scholarship        🎓  GOV'T         │
-│                  SSC · Govt. of Bangladesh                          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 

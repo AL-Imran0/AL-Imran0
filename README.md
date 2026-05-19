@@ -36,48 +36,6 @@
 
 ---
 
-## `▸ SYSTEM_MANIFEST.yml`
-
-```yaml
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   ENTITY      : AL Imran                                                   ║
-║   DESIGNATION : Chief AI Scientist · SW Architect · ML Engineer            ║
-║                                                                            ║
-║                                                                            ║
-║   RESEARCH_NODES:                                                          ║
-║      UCLA    ·  Research Assistant  ·  Prof. Sharon Qi 🇺🇸                  ║
-║      BUET    ·  Lead Researcher      ·  Prof. M. Sohel Rahman🇧🇩            ║
-║      UWA     ·  AI Research Asst     ·  Prof. Martin Ebert 🇦🇺              ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-## `▸ DEEP_DOMAIN_CORES`
-
-<details>
-<summary><b>🧠 &nbsp; LLMs &amp; Clinical NLP &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
-<br/>
-
-Fine-tuning and benchmarking biomedical LLMs — **BioMedLM**, **ClinicalBERT**, **LLaMA** — on radiology reports, oncology clinical notes, and peer-reviewed medical literature. Structured extraction pipelines from EHR text feeding downstream survival modeling.
-
-> `BioMedLM` → domain-adaptive pretraining on pathology corpora  
-> `ClinicalBERT` → NER + relation extraction from oncology notes  
-> `LLaMA` → few-shot clinical reasoning under resource constraints  
-
-![BioMedLM](https://img.shields.io/badge/BioMedLM-finetune-00ffc8?style=flat-square&labelColor=000814)
-![ClinicalBERT](https://img.shields.io/badge/ClinicalBERT-EHR_NLP-7dd3fc?style=flat-square&labelColor=000814)
-![LLaMA](https://img.shields.io/badge/LLaMA-Clinical_Adapt-bd00ff?style=flat-square&labelColor=000814)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Pipeline-fbbf24?style=flat-square&labelColor=000814)
-
-</details>
-
-<details>
-<summary><b>👁️ &nbsp; Vision-Language Models &nbsp;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></summary>
-<br/>
-
-Multimodal alignment across WSI pathology slides, CT/MRI scans, and clinical text using **CLIP**, **Med-PaLM**, **LLaVA-Med**. Zero-shot and few-shot diagnostic reasoning via cross-modal attention on real-world oncology cohorts.
-
 > Cross-modal contrastive learning · Attention-guided fusion · Pathology-radiology co-learning
 
 ![CLIP](https://img.shields.io/badge/CLIP-Cross_Modal-00ffc8?style=flat-square&labelColor=000814)
@@ -257,30 +215,6 @@ XAI methods integrated as **architectural constraints**, not post-hoc wrappers. 
 
 </div>
 
----
-
-## `▸ TRANSMISSION_CHANNELS  ( Contact )`
-
-<br/>
-
-<div align="center">
-
-| Channel | Address | Protocol |
-|:---:|:---:|:---:|
-| 🌐 Research Portal | [alimran-researcher](https://sites.google.com/view/alimran-researcher) | `HTTPS` |
-| 🔬 ORCID | [0009-0001-3122-6120](https://orcid.org/0009-0001-3122-6120) | `DOI-LINKED` |
-| 💼 LinkedIn | [al-imran-b3b98a239](https://linkedin.com/in/al-imran-b3b98a239) | `OAUTH2` |
-| 📧 Email | [alimran01770@gmail.com](mailto:alimran01770@gmail.com) | `SMTP` |
-| 🐙 GitHub | [@AL-Imran0](https://github.com/AL-Imran0) | `GIT/SSH` |
-| 📊 Kaggle | [@asmanimran](https://kaggle.com/asmanimran) | `HTTPS` |
-| 🎓 Google Scholar | [Research Corpus](https://scholar.google.com/citations?user=al-imran0) | `INDEXED` |
-| 🔗 ResearchGate | [Profile](https://www.researchgate.net/) | `HTTPS` |
-| 🐦 X / Twitter | [@alimran0712](https://x.com/alimran0712) | `API_v2` |
-
-</div>
-
-<br/>
-
 <div align="center">
 
 > **◈ Transmission Frequency:** Available for collaborations in Computational Biology · Clinical NLP · VLMs for Medical Imaging · XAI for Healthcare · Multi-Omics AI Systems
@@ -310,10 +244,3 @@ XAI methods integrated as **architectural constraints**, not post-hoc wrappers. 
 <!-- deep learning oncology, radiomics AI, multi-omics machine       -->
 <!-- learning, Chief AI Scientist Bangladesh, ML engineer BUET       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ANIMATED FOOTER — SHARK WAVE -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000814,40:001233,70:0a0a2e,100:0d001f&height=120&section=footer&text=Building+AI+that+understands+life+itself.&fontSize=14&fontColor=00ffc8&animation=twinkling&fontAlignY=70" width="100%"/>
-
-</div>

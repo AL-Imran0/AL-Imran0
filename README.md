@@ -38,7 +38,7 @@ I am **AL Imran**, an AI researcher and emerging computer scientist with a focus
 I work simultaneously across three research institutions:
 
 - **UCLA** — Research Assistant under [Prof. Dr. Sharon Qi, PhD, DABR](https://bioscience.ucla.edu/people/xiangrong-qi/), developing survival prediction frameworks for cancer patients using DICOM imaging and clinical data
-- **BUET** — Lead Researcher under Prof. Dr. M. Sohel Rahman, designing explainable multimodal AI for TNBC and lung cancer
+- **BUET** — Lead Researcher under Prof. Dr. M. Sohel Rahman(https://msrahman.buet.ac.bd/), designing explainable multimodal AI for TNBC and lung cancer
 - **UWA, Australia** — AI Research Assistant under Prof. Dr. Martin Ebert, building reproducible medical imaging AI with Sir Charles Gairdner Hospital
 
 I use biomedical imaging and clinical datasets as a stress test for ML theory — exposing challenges in inductive bias, optimization stability, and representation collapse that arise in real-world learning systems.
@@ -52,7 +52,7 @@ I use biomedical imaging and clinical datasets as a stress test for ML theory �
 | Period | Role | Institution | Supervisor |
 |--------|------|-------------|------------|
 | **Oct 2024 – Present** | Research Assistant | **UCLA**, USA — Radiation Oncology Lab | [Prof. Dr. Sharon Qi, PhD, DABR](https://bioscience.ucla.edu/people/xiangrong-qi/) |
-| **Jul 2025 – Present** | Lead Researcher | **BUET**, Bangladesh — CSE Dept. | Prof. Dr. M. Sohel Rahman |
+| **Jul 2025 – Present** | Lead Researcher | **BUET**, Bangladesh — CSE Dept. | Prof. Dr. M. Sohel Rahman(https://msrahman.buet.ac.bd/) |
 | **Jan 2023 – Dec 2024** | AI Research Assistant | **UWA**, Australia — Physics & Computing | [Prof. Dr. Martin Ebert](https://research-repository.uwa.edu.au/en/persons/martin-ebert/) |
 | **Jan 2023 – May 2024** | Research Assistant | **IAR, UIU**, Bangladesh | Prof. Dr. Hasin Anupoma Azhari |
 
@@ -212,15 +212,6 @@ SHAP, LIME, Grad-CAM, and attention visualization integrated as learning constra
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Period | Score |
-|--------|-------------|--------|-------|
-| **B.Sc. Computer Science & Engineering** | United International University (UIU), Dhaka | Oct 2022 – May 2026 | CGPA: **3.7 / 4.0** |
-| **HSC** | Govt. Azizul Haque College | 2021 | **97.54%** |
-| **SSC** | Bogura Zilla School | 2019 | **94%** |
-
----
 
 ## 🤝 Leadership & Community
 

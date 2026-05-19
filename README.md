@@ -41,8 +41,8 @@
 ```yaml
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║   ENTITY       : AL Imran                                                  ║
-║   DESIGNATION  : Chief AI Scientist · SW Architect · ML Engineer           ║
+║   ENTITY      : AL Imran                                                   ║
+║   DESIGNATION : Chief AI Scientist · SW Architect · ML Engineer            ║
 ║                                                                            ║
 ║                                                                            ║
 ║   RESEARCH_NODES:                                                          ║
@@ -53,28 +53,6 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## `▸ RESEARCH_CONSTELLATION`
-
-<div align="center">
-
-| 🔭 Node | 🏛️ Institution | 🧬 Mission | 📡 Status |
-|:---:|:---:|:---|:---:|
-| **UCLA Radiation Oncology** | CNN pipelines on NIH TCIA DICOM · Lung/Breast/H&N survival prediction · Clinical CSV + Imaging fusion | 🟢 `LIVE` |
-| **BUET — CSE Dept** | Explainable multimodal AI for TNBC · Multimodal DL lung survival · CMA-Net histopathology | 🟢 `LIVE` |
-| **University of Western Australia** | Co-authored Wiley Cancer Detection book chapter · Cross-continental AI research | 🟡 `PUBLISHING` |
-| **UNESCO Research Grant** | Deepfake detection via transfer learning + robust CNN · +23% reliability gain | ✅ `COMPLETE` |
-
-</div>
-
-<br/>
-
----
-
-## `▸ SIGNAL_CHANNELS  ( Publications )`
-
-<br/>
 ## `▸ DEEP_DOMAIN_CORES`
 
 <details>

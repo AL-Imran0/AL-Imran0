@@ -242,5 +242,5 @@ XAI methods integrated as **architectural constraints**, not post-hoc wrappers. 
 <!-- multimodal AI Bangladesh, XAI healthcare, clinical NLP,         -->
 <!-- LLM biomedical, VLM clinical, cancer AI prediction,             -->
 <!-- deep learning oncology, radiomics AI, multi-omics machine       -->
-<!-- learning, Chief AI Scientist Bangladesh, ML engineer BUET       -->
+<!-- learning, Chief AI Scientist                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->

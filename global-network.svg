@@ -1,0 +1,64 @@
+<svg viewBox="0 0 700 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="panelGrad" cx="50%" cy="35%" r="80%">
+      <stop offset="0%" stop-color="#0b132b"/>
+      <stop offset="100%" stop-color="#000814"/>
+    </radialGradient>
+    <filter id="glowG" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="680" height="360" rx="20" fill="url(#panelGrad)" stroke="#00ffc8" stroke-width="2" opacity="0.95"/>
+
+  <text x="350" y="45" text-anchor="middle" font-family="Consolas, monospace" font-size="19" letter-spacing="3" fill="#00ffc8" filter="url(#glowG)">GLOBAL RESEARCH NETWORK</text>
+
+  <!-- rotating wireframe globe -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 380 200" to="360 380 200" dur="40s" repeatCount="indefinite"/>
+    <circle cx="380" cy="200" r="95" fill="none" stroke="#00ffc8" stroke-width="1" opacity="0.35"/>
+    <ellipse cx="380" cy="200" rx="70" ry="95" fill="none" stroke="#00ffc8" stroke-width="0.8" opacity="0.22"/>
+    <ellipse cx="380" cy="200" rx="35" ry="95" fill="none" stroke="#bd00ff" stroke-width="0.8" opacity="0.22"/>
+    <ellipse cx="380" cy="170" rx="95" ry="30" fill="none" stroke="#00ffc8" stroke-width="0.8" opacity="0.2"/>
+    <ellipse cx="380" cy="230" rx="95" ry="30" fill="none" stroke="#bd00ff" stroke-width="0.8" opacity="0.2"/>
+    <ellipse cx="380" cy="200" rx="95" ry="60" fill="none" stroke="#ff2d78" stroke-width="0.8" opacity="0.18"/>
+  </g>
+
+  <!-- connecting arcs between research sites -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M 330 140 Q 392 105 455 190" stroke="#00ffc8" stroke-width="1.6" opacity="0.55" stroke-dasharray="6 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 455 190 Q 460 235 400 270" stroke="#bd00ff" stroke-width="1.6" opacity="0.55" stroke-dasharray="6 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 400 270 Q 340 225 330 140" stroke="#ff2d78" stroke-width="1.6" opacity="0.5" stroke-dasharray="6 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- pin: UCLA -->
+  <circle cx="330" cy="140" r="6" fill="#00ffc8" filter="url(#glowG)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="178" y1="118" x2="325" y2="138" stroke="#00ffc8" stroke-width="1" opacity="0.4"/>
+  <text x="172" y="112" text-anchor="end" font-family="Consolas, monospace" font-size="13" fill="#7dd3fc">🇺🇸 UCLA</text>
+  <text x="172" y="128" text-anchor="end" font-family="Consolas, monospace" font-size="10.5" fill="#7dd3fc" opacity="0.75">Los Angeles</text>
+
+  <!-- pin: BUET -->
+  <circle cx="455" cy="190" r="6" fill="#bd00ff" filter="url(#glowG)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="461" y1="188" x2="562" y2="163" stroke="#bd00ff" stroke-width="1" opacity="0.4"/>
+  <text x="568" y="160" text-anchor="start" font-family="Consolas, monospace" font-size="13" fill="#7dd3fc">🇧🇩 BUET</text>
+  <text x="568" y="176" text-anchor="start" font-family="Consolas, monospace" font-size="10.5" fill="#7dd3fc" opacity="0.75">Dhaka</text>
+
+  <!-- pin: UWA -->
+  <circle cx="400" cy="270" r="6" fill="#ff2d78" filter="url(#glowG)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="400" y1="276" x2="400" y2="322" stroke="#ff2d78" stroke-width="1" opacity="0.4"/>
+  <text x="400" y="338" text-anchor="middle" font-family="Consolas, monospace" font-size="13" fill="#7dd3fc">🇦🇺 UWA</text>
+  <text x="400" y="353" text-anchor="middle" font-family="Consolas, monospace" font-size="10.5" fill="#7dd3fc" opacity="0.75">Perth</text>
+</svg>

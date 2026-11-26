@@ -25,7 +25,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=al-imran0&color=00ffc8&style=flat-square&label=SIGNAL+TRACES)&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/al-imran0?style=flat-square&color=bd00ff&labelColor=0a0a2e&label=NETWORK+NODES)](https://github.com/al-imran0?tab=followers)&nbsp;&nbsp;
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3122--6120-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3122-6120)&nbsp;&nbsp;
 [![Scholar](https://img.shields.io/badge/Scholar-Research_Portal-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://sites.google.com/view/alimran-researcher)&nbsp;&nbsp;
 [![Status](https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00ffc8?style=flat-square&labelColor=001233)](mailto:alimran01770@gmail.com)
